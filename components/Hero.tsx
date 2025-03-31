@@ -53,8 +53,8 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I'm Love, a passionate Web Developer turning ideas into stunning
-            digital experiences.
+            Hi! I &#39; m Love, a passionate Web Developer turning ideas into
+            stunning digital experiences.
           </p>
 
           <a href="#about">
